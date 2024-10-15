@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header-title {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(33, 226, 252);
+}
+
+.body-list.list{
+    font-size: 20px;
+}
